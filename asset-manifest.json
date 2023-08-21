@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/houssamportfolio/static/css/main.7f2dc554.css",
+    "main.js": "/houssamportfolio/static/js/main.d5fbe51f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/houssamportfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/vapp.jpg": "/houssamportfolio/static/media/vapp.e17419e505a0f99ccd5a.jpg",
+    "static/media/Houssam_El_issioui.jpeg": "/houssamportfolio/static/media/Houssam_El_issioui.10de0b85beaaa5df56aa.jpeg",
+    "static/media/abstract-colorful.jpg": "/houssamportfolio/static/media/abstract-colorful.b300685eb17656535c88.jpg",
+    "static/media/houssamElissioui.pdf": "/houssamportfolio/static/media/houssamElissioui.3a751ccf9c375a763447.pdf",
+    "static/media/istockphoto.jpg": "/houssamportfolio/static/media/istockphoto.f3253abdb1587eb7285b.jpg",
+    "index.html": "/houssamportfolio/index.html",
+    "main.7f2dc554.css.map": "/houssamportfolio/static/css/main.7f2dc554.css.map",
+    "main.d5fbe51f.js.map": "/houssamportfolio/static/js/main.d5fbe51f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/houssamportfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f2dc554.css",
+    "static/js/main.d5fbe51f.js"
+  ]
+}
